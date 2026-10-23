@@ -65511,5 +65511,12 @@
     "author": "Atharva Savnerkar ",
     "description": "Repair LaTeX math delimiters in existing notes, selections, and pasted text. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ayush4265/latex-delimiter-fix"
+  },
+  {
+    "id": "seowebchecker-seo-audit",
+    "name": "SEOWebChecker SEO Audit",
+    "author": "SEOWebChecker",
+    "description": "Audit Markdown notes for on-page SEO, analyze heading hierarchy, keyword density, reading time, and inspect live URLs with SEOWebChecker.",
+    "repo": "jaiganesh6999/seowebchecker-seoaudit-sdk"
   }
 ]
